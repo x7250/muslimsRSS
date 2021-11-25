@@ -31,19 +31,19 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_SLXSHcCwK2RSZTXVL26SA" htmlUrl="https://www.youtube.com/channel/UC_SLXSHcCwK2RSZTXVL26SA"/>
       <outline text="        Skeptical Believer         " title="        Skeptical Believer         " type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtp1DA0VHu___qFRpQNY11g" htmlUrl="https://www.youtube.com/channel/UCtp1DA0VHu___qFRpQNY11g"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text=" Mustafa Sahin" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHIbISYhdw7_OqqrjwhZDlg" htmlUrl="https://www.youtube.com/channel/UCHIbISYhdw7_OqqrjwhZDlg"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text="Halaby" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnRC4dwrkwp3f_fUlBX6J1Q" htmlUrl="https://www.youtube.com/channel/UCnRC4dwrkwp3f_fUlBX6J1Q"/>
       <outline text="Jason Skywalker" title="Jason Skywalker" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChc_miBDLiqAG1DLDRHp7mQ" htmlUrl="https://www.youtube.com/channel/UChc_miBDLiqAG1DLDRHp7mQ"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text="هَاتُوا بُرْهَانَكُمْ Bring Your Proof" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1jzOAf8UopCBSEVXtqeoQg" htmlUrl="https://www.youtube.com/channel/UC1jzOAf8UopCBSEVXtqeoQg"/>
       <outline text="EFDawah" title="EFDawah" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCx420FfPBbEboBvnYjIemzw" htmlUrl="https://www.youtube.com/channel/UCx420FfPBbEboBvnYjIemzw"/>
       <outline text="The Muslim Metaphysician" title="The Muslim Metaphysician" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcGQRfTPNyHlXMqckvz2uqQ" htmlUrl="https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text="Calling Christians" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCn1cocvBjqYWg6ooPHem9KA" htmlUrl="https://www.youtube.com/channel/UCn1cocvBjqYWg6ooPHem9KA"/>
       <outline text="Dawah Connected" title="Dawah Connected" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCi1GVVLCR0xK0Z5m5vUmSpA" htmlUrl="https://www.youtube.com/channel/UCi1GVVLCR0xK0Z5m5vUmSpA"/>
@@ -57,11 +57,11 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCD38osGNyt3LiEoUDRs1c7w" htmlUrl="https://www.youtube.com/channel/UCD38osGNyt3LiEoUDRs1c7w"/>
       <outline text="Dawah Digital" title="Dawah Digital" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpSprRjI4ZZzKXAORKfFodQ" htmlUrl="https://www.youtube.com/channel/UCpSprRjI4ZZzKXAORKfFodQ"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text="79Sarwar" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHCRk856f3xUsW4TM5IPqnw" htmlUrl="https://www.youtube.com/channel/UCHCRk856f3xUsW4TM5IPqnw"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text="AllTruthRevealed" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo9KyvhTCshRNObh4h1024w" htmlUrl="https://www.youtube.com/channel/UCo9KyvhTCshRNObh4h1024w"/>
-      <outline text="RSS" title="RSS" type="rss" 
+      <outline text="Sapience Institute" title="RSS" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeZBhrU8xHcik0ZgtDwjsdA" htmlUrl="https://www.youtube.com/channel/UCeZBhrU8xHcik0ZgtDwjsdA"/>
   </outline>
   <outline title="Twitter" text="Twitter">
@@ -106,13 +106,13 @@
       <outline text="@mohammed_hijab - Search | Twitter" title="@mohammed_hijab - Search | Twitter" type="rss" 
             xmlUrl="https://twitter.com/search?q=%40mohammed_hijab&amp;f=live" htmlUrl="https://twitter.com/search?q=%40mohammed_hijab&amp;f=live"/>
       <outline text="islam - Search | Twitter" title="islam - Search | Twitter" type="rss" 
-            xmlUrl="https://twitter.com/search?q=islam&amp;src=typed_query&amp;f=live"/>
+            xmlUrl="https://twitter.com/search?q=islam&amp;src=typed_query&amp;f=live" htmlUrl="https://twitter.com/search?q=islam&amp;src=typed_query&amp;f=live"/>
       <outline text="muslim - Search | Twitter" title="muslim - Search | Twitter" type="rss" 
-            xmlUrl="https://twitter.com/search?q=muslim&amp;src=typed_query&amp;f=live"/>
+            xmlUrl="https://twitter.com/search?q=muslim&amp;src=typed_query&amp;f=live" htmlUrl="https://twitter.com/search?q=muslim&amp;src=typed_query&amp;f=live"/>
       <outline text="dawah - Search | Twitter" title="dawah - Search | Twitter" type="rss" 
-            xmlUrl="https://twitter.com/search?q=dawah&amp;src=typed_query&amp;f=live"/>
+            xmlUrl="https://twitter.com/search?q=dawah&amp;src=typed_query&amp;f=live" htmlUrl="https://twitter.com/search?q=dawah&amp;src=typed_query&amp;f=live"/>
       <outline text="ummah - Search | Twitter" title="ummah - Search | Twitter" type="rss" 
-            xmlUrl="https://twitter.com/search?q=ummah&amp;src=typed_query&amp;f=live"/>
+            xmlUrl="https://twitter.com/search?q=ummah&amp;src=typed_query&amp;f=live" htmlUrl="https://twitter.com/search?q=ummah&amp;src=typed_query&amp;f=live"/>
   </outline>
 </body>
 </opml>
